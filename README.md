@@ -41,7 +41,10 @@ Objetivo:
 
 ### 💻 Resultado:
 
-Acesse o projeto neste link [aqui](https://focus-timer-pauxosv02-matheus-ben-judas-projects.vercel.app/)!
+- Acesse o projeto neste link [aqui](https://focus-timer-pauxosv02-matheus-ben-judas-projects.vercel.app/)!
+
+
+  https://github.com/matheusjuda/Focus_timer/assets/114267214/02f9b30f-50aa-405d-bca8-e56aab8503cf
 
 
 
